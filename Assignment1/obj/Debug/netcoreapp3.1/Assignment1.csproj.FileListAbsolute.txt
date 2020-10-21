@@ -1,0 +1,11 @@
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+D:\Humber Project\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Humber Project\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+D:\Humber Project\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+D:\Humber Project\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+D:\Humber Project\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+D:\Humber Project\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb

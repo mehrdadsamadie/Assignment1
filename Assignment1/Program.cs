@@ -20,6 +20,10 @@ namespace Assignment1
                         {
                             result += int.Parse(item);
                         }
+                        catch (OverflowException)
+                        {
+                            Console.WriteLine("the Overflow Number !"); return;
+                        }
                         catch { Console.WriteLine("the one of Operation is Invalid !"); return; }
                     }
                     else
